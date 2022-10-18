@@ -1,0 +1,26 @@
+div{
+	height: 100vh;
+	width: 100vw;
+}
+.blackDiv{
+	background-color: black;
+	
+}
+#blueDiv{
+	background-color: grey;
+}
+.redDiv{
+	background-color: red;
+}
+a:link{
+	color: white;
+}
+a:visited{
+	color: red;
+}
+a:hover{
+	color: purple;
+}
+a:active{
+	color: black;
+}
